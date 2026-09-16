@@ -12,9 +12,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-the.vercel.app/api?username=rhoneycruz-ui&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats-eight-the.vercel.app/api/top-langs/?username=rhoneycruz-ui&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhoneycruz-ui&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=rhoneycruz-ui&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Contador de Visitas" />
 </p>
+
 ---
 
 ### 🛠️ Linguagens e Ferramentas
