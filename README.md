@@ -1,6 +1,6 @@
 # Olá, eu sou Rhoney Cruz 👋
 
-**Engenheiro de Computação focado em automação, visão computacional e produtos orientados a dados.**
+**Engenharia de Computação • Automação • Visão Computacional • Dados**
 
 Desenvolvo ferramentas que transformam processos manuais em aplicações confiáveis e fáceis de usar. Meus projetos atuais combinam Python, análise de dados, APIs e aplicações desktop para Windows.
 
