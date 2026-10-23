@@ -10,7 +10,7 @@ Desenvolvo ferramentas que transformam processos manuais em aplicações confiá
 |---|---|---|
 | [ROX Enchantment Overlay](https://github.com/rhoneycruz-ui/rox-enchantment-overlay) | Aplicação Windows que reconhece informações visuais do jogo e calcula custos de encantamento em tempo real. | Python, PySide6, OpenCV, OCR, pytest |
 | [Cotação do Dólar BCB](https://cotacao-dolar-bcb.streamlit.app/) ([código](https://github.com/rhoneycruz-ui/cotacao-dolar-bcb)) | Dashboard interativo com dados oficiais do Banco Central, métricas, gráfico e exportação CSV. | Python, Streamlit, Plotly, pandas, pytest |
-| [Análise do Titanic](https://github.com/rhoneycruz-ui/titanic-analysis) | Explora fatores associados à sobrevivência e apresenta os resultados em gráficos. | Python, pandas, seaborn |
+| [nuvem-palavras-tempo-real](https://github.com/rhoneycruz-ui/nuvem-palavras-tempo-real) | Nuvem de palavras interativa em tempo real para eventos, workshops e reuniões. | Javascript, Supabase |
 | [Calculadora XP Ragnarok](https://github.com/rhoneycruz-ui/calculadora-xp-ragnarok) | Calculadora web para planejamento de progressão e experiência. | HTML, CSS, JavaScript |
 
 ## Tecnologias
